@@ -1,4 +1,7 @@
-# three.js
+# Web Computer
+```
+google-chrome-unstable --enable-unsafe-webgpu --enable-features=Vulkan,UseSkiaRenderer
+```
 
 [![NPM Package][npm]][npm-url]
 [![Build Size][build-size]][build-size-url]
