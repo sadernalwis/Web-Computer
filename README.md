@@ -1,6 +1,10 @@
 # Web Computer
 ```
 google-chrome-unstable --enable-unsafe-webgpu --enable-features=Vulkan,UseSkiaRenderer
+git commit -am ""
+```
+```
+git push --set-upstream origin main --force
 ```
 
 [![NPM Package][npm]][npm-url]
