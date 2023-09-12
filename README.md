@@ -1,9 +1,18 @@
 # Web Computer
+[check compatibility!](https://caniuse.com/webgpu)
+
 ```
+https://www.ubuntuupdates.org/package/google_chrome/stable/main/base/google-chrome-unstable
 google-chrome-unstable --enable-unsafe-webgpu --enable-features=Vulkan,UseSkiaRenderer
 chrome://flags/#enable-webgpu-developer-features
 git commit -am ""
 ```
+```
+https://playcanvas.github.io/
+https://webgpu.github.io/webgpu-samples/workload-simulator.html?animate&usePostMessage&webgpuCanvasOptions&adapterInfo
+```
+
+# DANGER
 ```
 git push --set-upstream origin main --force
 ```
