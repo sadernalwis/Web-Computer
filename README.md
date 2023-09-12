@@ -1,6 +1,7 @@
 # Web Computer
 ```
 google-chrome-unstable --enable-unsafe-webgpu --enable-features=Vulkan,UseSkiaRenderer
+chrome://flags/#enable-webgpu-developer-features
 git commit -am ""
 ```
 ```
